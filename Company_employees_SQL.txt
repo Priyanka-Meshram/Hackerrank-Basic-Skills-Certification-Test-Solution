@@ -1,0 +1,9 @@
+---Company Employees
+
+SELECT ID
+
+FROM COMPANY
+
+WHERE number_employed > 10000
+
+ORDER BY ID ASC;
